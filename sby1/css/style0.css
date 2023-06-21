@@ -8,7 +8,7 @@ body {
     h2 {color: Red;} 
     h5 {color: GreenYellow;} 
     p {color: GreenYellow;} 
-    p2 {color: White;} 
+    p2 {color: Black;} 
     p3 {color: LightGreen;} 
     footer {color: LightGreen;} 
 
@@ -21,6 +21,6 @@ body {
 
     .center {
   padding: 70px 0;
-  border: 5px black;
+  border: 10px black;
   text-align: center;
 }
